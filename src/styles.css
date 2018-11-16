@@ -1,1 +1,25 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import "assets/bower_components/bootstrap/dist/css/bootstrap.min.css";
+@import "assets/bower_components/font-awesome/css/font-awesome.min.css";
+@import "assets/bower_components/Ionicons/css/ionicons.min.css";
+@import "assets/dist/css/AdminLTE.min.css";
+@import "assets/dist/css/skins/_all-skins.min.css";
+@import "assets/bower_components/morris.js/morris.css";
+@import "assets/bower_components/jvectormap/jquery-jvectormap.css";
+@import "assets/bower_components/bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css";
+@import "assets/bower_components/bootstrap-daterangepicker/daterangepicker.css";
+@import "assets/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css";
+
+
+body{
+    background-color: #f2f2f2;
+}
+
+
+.upload-button{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
